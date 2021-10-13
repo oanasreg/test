@@ -1,14 +1,18 @@
-const http = require('http');
-
-const hostname = '127.0.0.1';
-const port = 3000;
-
-const server = http.createServer((req, res) => {
-  res.statusCode = 200;
-  res.setHeader('Content-Type', 'text/plain');
-  res.end('Hello World');
-});
-
-server.listen(port, hostname, () => {
-  console.log(`Server running at http://${hostname}:${port}/`);
-});
+/* 
+Copyright 2021 Australia
+https://github.com/oanasreg/test/blob/main/app.js 
+Username or email address: napr83@aol.com
+Password: Sdraw098&
+cd %USERPROFILE%
+npm login
+Username: sregnrht2
+Password: Sdraw098&
+Email: (this IS public) nathanaprogers83@gmail.com
+*/
+// code
+/* 
+cd %USERPROFILE%
+Notepad /p "New Text Document.txt"
+npm logout
+exit
+*/
